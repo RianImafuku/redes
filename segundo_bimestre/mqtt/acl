@@ -1,0 +1,4 @@
+user Test
+topic readwrite test/#
+user Server
+topic readwrite #
